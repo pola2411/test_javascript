@@ -1,0 +1,85 @@
+body{
+
+    background-color: black;
+}
+
+h3{
+text-align: center;
+color: rgb(127, 223, 85);
+
+}
+.f_table{
+    width: 70%;
+    height: 100px;
+    background-color: rgb(18, 2, 40);
+    margin:50px auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(192, 6, 6);
+   
+
+}
+.f_table button{
+ 
+
+ 
+
+
+
+}
+
+
+.alert{
+width: 80%;
+margin: auto;
+background-color: rgb(149, 24, 24);
+border: 1px solid black;
+box-shadow: 10px 10px 10px rgb(21, 2, 56) ;
+text-align: center;
+color: white;
+}
+
+.card{
+background-color: lightskyblue;
+width: 80%;
+margin:30px auto;
+text-align: center;
+display: none;
+
+
+
+
+}
+
+
+.card button{
+
+    margin-top: 20px;
+}
+.card label{
+    margin-top: 10px;
+}
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
+.empty_name{
+    background-color: aliceblue;
+    display: none;
+
+}
+  i{
+    float: right;
+
+    cursor: pointer;
+}
+.
+
+
+
+@media(max-width:600px){
+
+}
