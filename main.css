@@ -42,7 +42,7 @@ color: white;
 
 .card{
 background-color: lightskyblue;
-width: 80%;
+width: 50%;
 margin:30px auto;
 text-align: center;
 display: none;
@@ -76,10 +76,18 @@ display: none;
 
     cursor: pointer;
 }
-.
+
+
+
+
 
 
 
 @media(max-width:600px){
+    .card{
+        width: 80%;
+
+    }
+
 
 }
